@@ -4,6 +4,7 @@ return array(
     'Customer Number' => 'Numer klienta',
     'DELIVERY' => 'Dostawa',
     'Delivery address' => 'Adres dostawy',
+    'Delivery module' => 'Moduł dostawy',
     'Discount' => 'Rabat',
     'Email: ' => 'E-mail:',
     'INVOICE' => 'Faktura',
